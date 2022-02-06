@@ -4,7 +4,7 @@
 
 ## Чем я занимаюсь сейчас?
 
-:dart: В настоящий момент я изучаю процесс полного выстраивания автоматизации и применяю это в своей работе. Я прохожу курс на **[QA.GURU school](https://qa.guru)**. На курсе мы практикуем следующие инструменты автоматизации:*
+:dart: В настоящий момент я изучаю процесс полного выстраивания автоматизации и применяю это в своей работе. Я прохожу курс на **[QA.GURU school](https://qa.guru)**. На курсе мы практикуем следующие инструменты автоматизации:
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-20793B?logo=java&style=flat">
@@ -20,8 +20,53 @@
 
 
 <div align="left">
-<h2><img width="32" src="images/daramirra_giphy.webp"> Мои проекты </h2>
+<h2><img width="32" src="images/giphy.webp"> Мои проекты </h2>
 </div>
+
+
+
+<p align="right">
+  <a href="https://github.com/andreyzavrichko?tab=repositories&sort=stargazers"><img width="140" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-20793B?style=for-the-badge&logoColor=white&logo=repo"></a>
+</p>
+
+<p align="right">
+  <h2><img width="45" src="images/contact3.gif">Языки и инструменты<img align="right" title="My Github Stats" width="35"  src="images/stats.webp"></h2>
+<br>
+<a>
+  <img width="50%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=andreyzavrichko&show_icons=true&line_height=20&icon_color=27A438&include_all_commits=true&theme=buefy&hide_border=true">
+</a>
+</p>
+
+
+<p  align="left">
+   
+  <code><img width="5%" title="IntelliJ IDEA" src="images/Intelij_IDEA.svg"></code>
+  <code><img width="5%" title="Java" src="images/Java.svg"></code>
+  <code><img width="5%" title="Selenium" src="images/Selenium.svg"></code>
+  <code><img width="5%" title="Selenide" src="images/selenide-logo.svg "></code>
+  <code><img width="5%" title="Rest-Assured" src="images/RESTAssured.svg"></code>
+  
+  <code><img width="5%" title="Appium" src="images/Appium.svg"></code>
+  <code><img width="5%" title="Browserstack" src="images/Browserstack.svg"></code>
+  <code><img width="5%" title="Gradle" src="images/Gradle.svg"></code>
+  <code><img width="5%" title="JUnit5" src="images/junit5.svg"></code>
+  <code><img width="5%" title="Jenkins" src="images/Jenkins.svg"></code>
+  
+  <code><img width="5%" title="Selenoid" src="images/selenoid.svg"></code>
+  <code><img width="5%" title="Docker" src="images/Docker.svg"></code>
+  <code><img width="5%" title="Allure TestOps" src="images/allureTestOPS.svg"></code>
+  <code><img width="5%" title="Allure Report" src="images/allureReport.svg"></code>
+  <code><img width="5%" title="Github" src="images/Github.svg"></code>
+<!-- <code><img width="5%" title="Gitlab" src="images/gitlab.svg"></code> -->
+ 
+</p>
+
+<p align="right">
+  <a>
+    <img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyzavrichko&layout=compact&theme=buefy&hide_border=true">
+  </a>
+</p>
+
 
 <!--
 **andreyzavrichko/andreyzavrichko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
