@@ -24,8 +24,8 @@
 </div>
 <p align="center">
  <a href="https://github.com/andreyzavrichko/qaguru_homework_12.5"><img width="250" title="| Graduation project. UI and API automated tests using Java / Selenide / Rest-Assured" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andreyzavrichko&repo=qaguru_homework_12.5&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="qaGuruDiploma"></a>
-<a href="https://github.com/andreyzavrichko/mobile-tests"><img width="250" title="|Mobile automated tests with Appium" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andreyzavrichko&repo=mobile-tests&theme=buefy&border_color=6A54DF&title_color=6A54DF&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="mobile_tests"></a>
-<a href="https://github.com/andreyzavrichko/petstore-api-tests"><img width="250" title="|Api automated tests with RestAssured" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andreyzavrichko&repo=petstore-api-tests&theme=buefy&border_color=6A54DF&title_color=6A54DF&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="api_tests"></a>  
+<a href="https://github.com/andreyzavrichko/mobile-tests"><img width="250" title="| Mobile automated tests with Appium" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andreyzavrichko&repo=mobile-tests&theme=buefy&border_color=6A54DF&title_color=6A54DF&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="mobile_tests"></a>
+<a href="https://github.com/andreyzavrichko/petstore-api-tests"><img width="250" title="| Api automated tests with RestAssured" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andreyzavrichko&repo=petstore-api-tests&theme=buefy&border_color=6A54DF&title_color=6A54DF&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="api_tests"></a>  
 </p>  
 
 
