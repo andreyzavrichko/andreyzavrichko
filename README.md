@@ -28,8 +28,6 @@
   <h2>Статистика</h2>
 <br>
 </p>
-Карточка профиля:
-<br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreyzavrichko&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreyzavrichko&theme=radical)
