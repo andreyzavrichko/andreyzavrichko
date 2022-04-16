@@ -20,7 +20,7 @@
 
 
 <div align="left">
-<h2><img width="32" src="images/giphy.webp"> Мои проекты </h2>
+<h2> Мои проекты </h2>
 </div>
 <p align="center">
  <a href="https://github.com/andreyzavrichko/qaguru_homework_12.5"><img width="250" title="| Graduation project. UI automated tests using Java / Selenide / Rest-Assured" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andreyzavrichko&repo=qaguru_homework_12.5&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="qaGuruDiploma"></a>
@@ -35,7 +35,7 @@
 </p>
 
 <p align="right">
-  <h2><img width="45" src="images/contact3.gif">Языки и инструменты<img align="right" title="My Github Stats" width="35"  src="images/stats.webp"></h2>
+  <h2>Языки и инструменты<img align="right" title="My Github Stats" width="35"  src="images/stats.webp"></h2>
 <br>
 <a>
   <img width="50%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=andreyzavrichko&show_icons=true&theme=radical">
