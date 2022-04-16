@@ -58,6 +58,17 @@
 <br>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreyzavrichko&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreyzavrichko&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreyzavrichko&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andreyzavrichko&theme=radical)
+
+
+
+
+
 <!--
 **andreyzavrichko/andreyzavrichko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
