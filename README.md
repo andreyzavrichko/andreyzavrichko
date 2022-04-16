@@ -32,38 +32,12 @@
 <br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreyzavrichko&theme=radical)
-
-
-Статистика языков в коммитах:
-<br>
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreyzavrichko&theme=radical)
-
-
-
-Статистика языков в репозиториях:
-<br>
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreyzavrichko&theme=radical)
-
-Статистика профиля:
-<br>
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreyzavrichko&theme=radical)
-
-Данные по коммитам за сутки:
-<br>
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andreyzavrichko&theme=radical)
-<br>
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreyzavrichko&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreyzavrichko&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreyzavrichko&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andreyzavrichko&theme=radical)
 
 
 
