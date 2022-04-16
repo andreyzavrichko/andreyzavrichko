@@ -21,13 +21,13 @@
 </p>  
 
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/andreyzavrichko?tab=repositories&sort=stargazers"><img width="140" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-20793B?style=for-the-badge&logoColor=white&logo=repo"></a>
   
 </p>
 
 <p align="right">
-  <h2>Языки и инструменты<img align="right" title="My Github Stats" width="35"  src="images/stats.webp"></h2>
+  <h2>Статистика</h2>
 <br>
 <a>
   <img width="50%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=andreyzavrichko&show_icons=true&theme=radical">
