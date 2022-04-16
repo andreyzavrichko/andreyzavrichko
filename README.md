@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/andreyzavrichko?tab=repositories&sort=stargazers"><img width="140" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-20793B?style=for-the-badge&logoColor=white&logo=repo"></a>
+  <a href="https://github.com/andreyzavrichko?tab=repositories&sort=stargazers"></a>
   
 </p>
 
@@ -30,7 +30,7 @@
   <h2>Статистика</h2>
 <br>
 <a>
-  <img width="50%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=andreyzavrichko&show_icons=true&theme=radical">
+  <img width="50%" align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=andreyzavrichko&show_icons=true&theme=radical">
   
 </a>
 </p>
