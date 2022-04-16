@@ -30,28 +30,33 @@
 </p>
 Карточка профиля:
 <br>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreyzavrichko&theme=radical)
 
 
+Статистика языков в коммитах:
 <br>
 
-Статистика языков в коммитах:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreyzavrichko&theme=radical)
 
 
 
 Статистика языков в репозиториях:
 <br>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreyzavrichko&theme=radical)
 
 Статистика профиля:
 <br>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreyzavrichko&theme=radical)
 
 Данные по коммитам за сутки:
 <br>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andreyzavrichko&theme=radical)
 <br>
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <!--
 **andreyzavrichko/andreyzavrichko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
