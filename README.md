@@ -25,20 +25,26 @@
   <a href="https://github.com/andreyzavrichko?tab=repositories&sort=stargazers"></a>
   
 </p>
-
 <p align="right">
   <h2>Статистика</h2>
 <br>
-<a>
-  <img width="50%" align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=andreyzavrichko&show_icons=true&theme=radical">
-  
-</a>
-</p>
 
+Карточка профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreyzavrichko&theme=radical)
 
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreyzavrichko&theme=radical)
 
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreyzavrichko&theme=radical)
 
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreyzavrichko&theme=radical)
 
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andreyzavrichko&theme=radical)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <!--
 **andreyzavrichko/andreyzavrichko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
