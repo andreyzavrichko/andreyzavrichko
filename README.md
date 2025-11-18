@@ -31,6 +31,7 @@
 <a href="https://github.com/andreyzavrichko/qa_guru_python_14_14"><img width="250" title="| UI automated tests Python" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andreyzavrichko&repo=qa_guru_python_14_14&theme=buefy&border_color=6A54DF&title_color=6A54DF&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="ui_tests"></a>   
 <a href="https://github.com/andreyzavrichko/qa_guru_python_api_diplom"><img width="250" title="| API automated tests Python" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andreyzavrichko&repo=qa_guru_python_api_diplom&theme=buefy&border_color=6A54DF&title_color=6A54DF&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="api_tests"></a>  
 <a href="https://github.com/andreyzavrichko/qa_guru_python_mobile_diplom"><img width="250" title="| MOBILE automated tests Python" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andreyzavrichko&repo=qa_guru_python_mobile_diplom&theme=buefy&border_color=6A54DF&title_color=6A54DF&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="mobile_tests"></a>   
+<a href="https://github.com/andreyzavrichko/no_bugs_teamcity"><img width="250" title="| UI/API Autotests Java" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andreyzavrichko&repo=no_bugs_teamcity&theme=buefy&border_color=6A54DF&title_color=6A54DF&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="noBugs"></a>     
 </p>  
 
 
